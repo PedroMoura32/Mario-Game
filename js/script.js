@@ -37,8 +37,6 @@ const loop = setInterval(() => {
         // clouds.style.bottom = '500px'
         // clouds.style.width = '1300px'
 
-        document.
-
         clearInterval(loop)
     }
 
